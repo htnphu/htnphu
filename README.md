@@ -28,7 +28,7 @@
 
 ### 📫 How to reach me 
 [![Facebook](https://img.shields.io/badge/facebook%20-%23013243.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hanphu2304/)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/han-tho-nhat-phu-30439021a/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/han-tho-nhat-phu-30439021a/)
 <!---
 htnphu/htnphu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
