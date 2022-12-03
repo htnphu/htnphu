@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Han Tho Nhat Phu
+- 👋 Hi, I’m Han Tho Nhat Phu - HCMUS-er
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Website and Mobile development
 - 💞️ I’m looking to collaborate on ...
