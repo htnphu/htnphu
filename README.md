@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Han Tho Nhat Phu - HCMUS-er
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Website and Mobile development
+<!---
 - 💞️ I’m looking to collaborate on ...
-
+--->
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
