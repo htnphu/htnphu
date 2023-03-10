@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Han Tho Nhat Phu - HCMUS-er
-- 👀 I’m interested in Software Engineering
+- 👋 Hi, I’m Han Tho Nhat Phu and I am a tech lover
+- 👀 I’m currently studying at University of Science - VNUHCM
+- 💞️ My major is Software Engineering
 - 🌱 I’m currently learning Website and Mobile development
 <!---
 - 💞️ I’m looking to collaborate on ...
@@ -14,6 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- 🌱 I’m currently learning Go
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ### Technologies
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
