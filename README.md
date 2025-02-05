@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Han Tho Nhat Phu and I am a tech lover
-- 👀 I’m currently studying at the University of Science - VNUHCM, and I also work as a Software Engineer
-- 💞️ My major is Software Engineering
+- 👋 Hi, I’m Han Tho Nhat Phu, a passionate tech enthusiast.
+- 💻 I have a degree in Software Engineering from the University of Science - VNUHCM.
+- 🚀 Currently, I work as a Software Engineer, continuously learning and building innovative solutions.
 - 🌱 I am currently transitioning my learning focus towards deepening my understanding of operating systems, and networking, while also honing my algorithmic skills.
 
 ### Languages
